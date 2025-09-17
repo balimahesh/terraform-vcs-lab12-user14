@@ -16,7 +16,7 @@ terraform {
     organization = "user14-terraform-training"  # Will be updated during lab
 
     workspaces {
-      name = "vcs-lab12-user14"  # Will be updated during lab
+      name = "terraform-vcs-lab12-user14"  # Will be updated during lab
     }
   }
 }
